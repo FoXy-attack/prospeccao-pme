@@ -1,0 +1,6 @@
+Empresa,Contato (nome),E-mail,Cidade,Setor,Vidas (aprox.),Status,1º e-mail em,Follow-up 1 em,Follow-up 2 em,Última verificação,Observações
+Metalúrgica Exemplo Ltda,,contato@metalurgicaexemplo.com.br,Joinville/SC,Metalúrgica,120,Novo,,,,,Fonte: metalurgicaexemplo.com.br/contato
+Transportes Fictícios S.A.,,comercial@transportesficticios.com.br,Goiânia/GO,Transportadora,200,Enviado,18/11/2026,,,18/11/2026,Fonte: transportesficticios.com.br
+Construtora Modelo,,rh@construtoramodelo.com.br,Natal/RN,Construtora,80,Follow-up 1,10/11/2026,14/11/2026,,14/11/2026,Fonte: construtoramodelo.com.br/contato
+Distribuidora Demonstração,,contato@distribuidorademo.com.br,Campinas/SP,Distribuidora,300,Respondeu,05/11/2026,,,07/11/2026,"Fonte: distribuidorademo.com.br. Resposta: ""Pode mandar cotação para 300 vidas."""
+Frigorífico Teste,,comercial@frigorificoteste.com.br,Chapecó/SC,Frigorífico,450,Descadastrou,04/11/2026,,,05/11/2026,Fonte: frigorificoteste.com.br. Pediu remoção.
