@@ -1,0 +1,18 @@
+{
+  "rotinas": [
+    {
+      "nome": "Captar leads de empresas para o CRM Prospecção",
+      "prompt": "prompts/captacao-leads.md",
+      "cron": "CRON_TZ=America/Sao_Paulo 0 7 * * 1-5",
+      "descricao": "Seg-sex 07h. Repõe a fila até 5 empresas com status Novo.",
+      "notificacao": { "push": true, "email": false }
+    },
+    {
+      "nome": "Relatório diário da prospecção",
+      "prompt": "prompts/relatorio-diario.md",
+      "cron": "CRON_TZ=America/Sao_Paulo 0 18 * * 1-5",
+      "descricao": "Seg-sex 18h. Resumo do funil, respostas e problemas. Somente leitura.",
+      "notificacao": { "push": true, "email": false }
+    }
+  ]
+}
